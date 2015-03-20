@@ -1,0 +1,13 @@
+2 house 2 3 4 5 
+4 penthouse 1 2 3 4 
+6 house 6 5 4 3 
+7 apartment 1 5 adresa2 3 
+8 house 1 2 3 4 
+3 house 2 3 4 4 
+5 apartment 1 2 2 2 
+9 house 1 2 ad 4 
+12 house 1 2 adresa 4 
+11 house 4 3 2 1 
+10 penthouse 1 5 2 4 
+13 apartment 4 3 2 1 
+16 house 1 2 3 4 
